@@ -1,7 +1,7 @@
 {
   "dealership": "Dearborn Motors Ltd",
-  "generated_at": "2026-09-25T19:44:36",
-  "vehicle_count": 481,
+  "generated_at": "2026-09-26T20:44:21",
+  "vehicle_count": 672,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -25,17 +25,6 @@
       "dealer_url": "https://www.dearbornford.com/used/vehicle/2015-toyota-corolla-s-id15396654.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T17:00:08",
       "odometer_km": 139052,
-      "condition": "used"
-    },
-    {
-      "name": "2017FordEdgeTitanium 4dr All-Wheel Drive",
-      "vin": "2FMPK4K94HBC34160",
-      "stock": "QT562A",
-      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/used/09c816273476.html",
-      "source_url": "https://www.dearbornford.com/used/vehicle/2017-ford-edge-titanium-id15396655.htm",
-      "dealer_url": "https://www.dearbornford.com/used/vehicle/2017-ford-edge-titanium-id15396655.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T17:17:32",
-      "odometer_km": 83421,
       "condition": "used"
     },
     {
@@ -622,17 +611,6 @@
       "condition": "used"
     },
     {
-      "name": "2025FordF-350Platinum 4x4 SD Crew Cab 6.75 ft. box SRW",
-      "vin": "1FT8W3BM8SED64112",
-      "stock": "T6794A",
-      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/used/9d7125ae5d49.html",
-      "source_url": "https://www.dearbornford.com/used/vehicle/2025-ford-f-350-platinum-id15354592.htm",
-      "dealer_url": "https://www.dearbornford.com/used/vehicle/2025-ford-f-350-platinum-id15354592.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:09:03",
-      "odometer_km": 16505,
-      "condition": "used"
-    },
-    {
       "name": "2025FordF-350XLT 4x4 SD Crew Cab 8 ft. box DRW",
       "vin": "1FT8W3DT6SED50715",
       "stock": "TT596A",
@@ -706,17 +684,6 @@
       "dealer_url": "https://www.dearbornford.com/used/vehicle/2025-kia-sorento-hybrid-ex-id15179599.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T17:10:10",
       "odometer_km": 31416,
-      "condition": "used"
-    },
-    {
-      "name": "2025MazdaCX-5GS 4dr i-ACTIV All-Wheel Drive Sport Utility",
-      "vin": "JM3KFBCL3S0743061",
-      "stock": "9K2690",
-      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/used/f3e80ddb255f.html",
-      "source_url": "https://www.dearbornford.com/used/vehicle/2025-mazda-cx-5-gs-id15409433.htm",
-      "dealer_url": "https://www.dearbornford.com/used/vehicle/2025-mazda-cx-5-gs-id15409433.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:10:19",
-      "odometer_km": 36806,
       "condition": "used"
     },
     {
@@ -855,6 +822,122 @@
       "condition": "new"
     },
     {
+      "name": "2024FORDBRONCO SPORTBADLANDS 4DR 4X4",
+      "vin": "3FMCR9D91RRF09944",
+      "stock": "R9D0994",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/3ae0fae69280.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2024-ford-bronco-sport-badlands-id13363132.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2024-ford-bronco-sport-badlands-id13363132.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:11:58",
+      "odometer_km": 9940,
+      "condition": "new"
+    },
+    {
+      "name": "2024FORDBRONCO SPORTOUTER BANKS 4DR 4X4",
+      "vin": "3FMCR9C66RRF14502",
+      "stock": "R9C1450",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/7ea06a7750d1.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2024-ford-bronco-sport-outer-banks-id13295076.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2024-ford-bronco-sport-outer-banks-id13295076.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:12:08",
+      "price": 47998.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2024FORDBRONCO SPORTOUTER BANKS 4DR 4X4",
+      "vin": "3FMCR9C6XRRF48247",
+      "stock": "R9C4824",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/5e35e3062317.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2024-ford-bronco-sport-outer-banks-id13541533.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2024-ford-bronco-sport-outer-banks-id13541533.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:12:18",
+      "price": 41998.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2024FORDE-TRANSIT-350 CARGOREAR-WHEEL DRIVE MEDIUM ROOF VAN",
+      "vin": "1FTBW9CM8RKB22682",
+      "stock": "W9C2268",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/d102832a36ab.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2024-ford-e-transit-350-cargo-base-id13495200.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2024-ford-e-transit-350-cargo-base-id13495200.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:12:27",
+      "price": 72770.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2024FORDE-TRANSIT-350 CARGOREAR-WHEEL DRIVE MEDIUM ROOF VAN",
+      "vin": "1FTBW9CM9RKB38566",
+      "stock": "W9C3856",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/1c5651ebf0f2.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2024-ford-e-transit-350-cargo-base-id13505896.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2024-ford-e-transit-350-cargo-base-id13505896.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:12:37",
+      "price": 72660.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2024FORDESCAPEPHEV 4DR FRONT-WHEEL DRIVE (700A)",
+      "vin": "1FMCU0E19RUB40598",
+      "stock": "U0E4059",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/622ccc317eb1.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2024-ford-escape-phev-id13495184.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2024-ford-escape-phev-id13495184.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:12:45",
+      "price": 46998.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2024FORDESCAPEPHEV 4DR FRONT-WHEEL DRIVE (700A)",
+      "vin": "1FMCU0E10RUA30278",
+      "stock": "U0E3027",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/626724f0e1c2.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2024-ford-escape-phev-id13594191.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2024-ford-escape-phev-id13594191.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:12:55",
+      "price": 51498.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2024FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (302A)",
+      "vin": "1FTFW3L80RFA59605",
+      "stock": "W3L5960",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/2e6699358e89.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2024-ford-f-150-xlt-id13007290.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2024-ford-f-150-xlt-id13007290.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:13:03",
+      "price": 73000.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2024FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
+      "vin": "1FTFW3L84RKE36914",
+      "stock": "W3L3691",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/1bb1ac12a320.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2024-ford-f-150-xlt-id13295093.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2024-ford-f-150-xlt-id13295093.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:13:13",
+      "price": 77388.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2024FORDF-550 CHASSISXL 4X4 SD CREW CAB DRW (660A)",
       "vin": "1FD0W5HT2REC70790",
       "stock": "HR103",
@@ -892,6 +975,32 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2024-ford-f-750-diesel-base-id12684118.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T17:43:17",
       "price": 129995.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2024FORDTRANSIT-150 CARGOALL-WHEEL DRIVE LOW ROOF VAN",
+      "vin": "1FTYE2Y86RKB56782",
+      "stock": "E2Y1425",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/5520b7260cc9.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2024-ford-transit-150-cargo-base-id13663465.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2024-ford-transit-150-cargo-base-id13663465.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:13:22",
+      "price": 63807.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2024FORDTRANSIT-150 CARGOALL-WHEEL DRIVE LOW ROOF VAN",
+      "vin": "1FTYE2Y85RKB56742",
+      "stock": "E2Y5674",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/4a1ec887b55d.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2024-ford-transit-150-cargo-base-id13663466.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2024-ford-transit-150-cargo-base-id13663466.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:13:31",
+      "price": 62607.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -936,6 +1045,18 @@
     },
     {
       "name": "2025FORDESCAPEPHEV 4DR FRONT-WHEEL DRIVE (700A)",
+      "vin": "1FMCU0E11SUA63716",
+      "stock": "U0E6371",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/12b0af56542c.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2025-ford-escape-phev-id14560194.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2025-ford-escape-phev-id14560194.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:13:39",
+      "odometer_km": 9632,
+      "condition": "new"
+    },
+    {
+      "name": "2025FORDESCAPEPHEV 4DR FRONT-WHEEL DRIVE (700A)",
       "vin": "1FMCU0E16SUB62595",
       "stock": "0J5550",
       "color": "White",
@@ -944,6 +1065,19 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2025-ford-escape-phev-id15391374.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T17:44:20",
       "odometer_km": 18566,
+      "condition": "new"
+    },
+    {
+      "name": "2025FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX (501A)",
+      "vin": "1FTFW5L85SKE46238",
+      "stock": "W5L4623",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/f0bf022bbb72.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2025-ford-f-150-lariat-id14224850.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2025-ford-f-150-lariat-id14224850.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:13:49",
+      "price": 77619.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -1013,6 +1147,19 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDBRONCOBADLANDS 4DR 4X4",
+      "vin": "1FMEE9BP5TLA44760",
+      "stock": "26BR476",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/4cfd375378f7.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-badlands-id14934271.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-badlands-id14934271.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:13:59",
+      "price": 77256.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDBRONCOBADLANDS 4DR 4X4 (332A)",
       "vin": "1FMEE9BP6TLA62796",
       "stock": "XT145",
@@ -1039,6 +1186,19 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDBRONCOBADLANDS 4DR 4X4",
+      "vin": "1FMEE9BP7TLA55338",
+      "stock": "26BR533",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/246bc5d29bfd.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-badlands-id15014986.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-badlands-id15014986.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:14:09",
+      "price": 77244.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDBRONCOBADLANDS 4DR 4X4 (334A)",
       "vin": "1FMEE9BP4TLA60710",
       "stock": "E9B6071",
@@ -1046,8 +1206,21 @@
       "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/c5309b9f8654.html",
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-badlands-id15038076.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-badlands-id15038076.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:45:59",
+      "last_verified": "2026-09-26T20:42:09",
       "price": 96930.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDBRONCOBADLANDS 4DR 4X4",
+      "vin": "1FMEE9BP2TLA73097",
+      "stock": "26BR309",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/29732b1e3469.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-badlands-id15055349.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-badlands-id15055349.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:14:18",
+      "price": 74009.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -1059,7 +1232,7 @@
       "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/13dbaa1ad44c.html",
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-badlands-id15119199.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-badlands-id15119199.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:46:17",
+      "last_verified": "2026-09-26T20:42:18",
       "price": 98900.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1072,9 +1245,20 @@
       "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/2ebae5b3cd52.html",
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-badlands-id15190699.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-badlands-id15190699.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:46:26",
+      "last_verified": "2026-09-26T20:42:28",
       "price": 71582.0,
       "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDBRONCO2DR 4X4",
+      "vin": "1FMDE6AH6TLA87962",
+      "stock": "26BR796",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/8247ad57503c.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-base-id15203989.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-base-id15203989.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:14:27",
       "condition": "new"
     },
     {
@@ -1085,7 +1269,7 @@
       "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/ea9dd11e687e.html",
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-base-id15326147.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-base-id15326147.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:46:44",
+      "last_verified": "2026-09-26T20:42:36",
       "price": 69560.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1098,7 +1282,7 @@
       "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/09288a0563e6.html",
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14737720.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14737720.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:46:55",
+      "last_verified": "2026-09-26T20:42:46",
       "price": 56696.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1111,7 +1295,7 @@
       "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/b1c101b19b5e.html",
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14770656.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14770656.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:47:05",
+      "last_verified": "2026-09-26T20:42:54",
       "price": 57295.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1124,7 +1308,7 @@
       "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/d35ec733c213.html",
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14770665.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14770665.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:47:13",
+      "last_verified": "2026-09-26T20:43:02",
       "price": 54834.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1137,7 +1321,7 @@
       "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/6a0f3bace68c.html",
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14770666.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14770666.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:47:20",
+      "last_verified": "2026-09-26T20:43:11",
       "price": 60017.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1150,7 +1334,7 @@
       "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/ff6391d53248.html",
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14913184.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14913184.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:47:31",
+      "last_verified": "2026-09-26T20:43:21",
       "price": 56605.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1163,7 +1347,7 @@
       "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/54c98620c28e.html",
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14923031.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14923031.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:47:39",
+      "last_verified": "2026-09-26T20:43:30",
       "price": 55403.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1176,7 +1360,7 @@
       "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/6836c7b733d0.html",
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14928109.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14928109.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:47:48",
+      "last_verified": "2026-09-26T20:43:38",
       "price": 74630.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1189,7 +1373,7 @@
       "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/5ef7c37e99dc.html",
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14951930.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14951930.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:47:58",
+      "last_verified": "2026-09-26T20:43:49",
       "price": 58685.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1202,7 +1386,7 @@
       "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/7861d0e70de5.html",
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14965152.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14965152.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:48:06",
+      "last_verified": "2026-09-26T20:43:56",
       "price": 54017.0,
       "price_currency": "CAD",
       "condition": "new"
@@ -1228,9 +1412,20 @@
       "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/116e1106a02d.html",
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14976905.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id14976905.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:48:24",
+      "last_verified": "2026-09-26T20:44:14",
       "price": 60746.0,
       "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDBRONCOBIG BEND 4DR 4X4",
+      "vin": "1FMDE7BH5TLA43777",
+      "stock": "26BR377",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/45b0df6152d6.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id15040369.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id15040369.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:14:37",
       "condition": "new"
     },
     {
@@ -1243,6 +1438,32 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id15093280.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T17:48:43",
       "price": 60903.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDBRONCOBIG BEND 4DR 4X4",
+      "vin": "1FMEE7BH4TLB22345",
+      "stock": "26BR234",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/a258f8c0a9ab.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id15252168.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id15252168.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:14:44",
+      "price": 58810.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDBRONCOBIG BEND 4DR 4X4",
+      "vin": "1FMEE7BH1TLB19791",
+      "stock": "26BR979",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/1eb34081ebb7.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id15263876.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-big-bend-id15263876.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:14:54",
+      "price": 59338.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -1377,6 +1598,30 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDBRONCOOUTER BANKS 4DR 4X4",
+      "vin": "1FMEE8BH4TLB61961",
+      "stock": "26BR196",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/7624eb98a1f8.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-outer-banks-id15412077.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-outer-banks-id15412077.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:15:04",
+      "price": 67307.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDBRONCORAPTOR 4DR 4X4 (374A)",
+      "vin": "1FMEE0RR4TLB13912",
+      "stock": "E0R1391",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/095fe849827b.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-raptor-id15326145.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-raptor-id15326145.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:15:12",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDBRONCORAPTOR 4DR 4X4 (374A)",
       "vin": "1FMEE0RR3TLB13867",
       "stock": "XT654",
@@ -1385,17 +1630,6 @@
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-raptor-id15329638.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-raptor-id15329638.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T17:50:54",
-      "condition": "new"
-    },
-    {
-      "name": "2026FORDBRONCORAPTOR 4DR 4X4 (374A)",
-      "vin": "1FMEE0RR4TLB13974",
-      "stock": "E0R1397",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/5c4e9e1e34ca.html",
-      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-raptor-id15332930.htm",
-      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-raptor-id15332930.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:51:02",
       "condition": "new"
     },
     {
@@ -1488,6 +1722,17 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDBRONCO SPORTBADLANDS 4DR 4X4",
+      "vin": "3FMCR9DA4TRE99475",
+      "stock": "26BS947",
+      "color": "Other",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/22a5b5329a3d.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-sport-badlands-id15409387.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-sport-badlands-id15409387.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:15:22",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4 (200A)",
       "vin": "3FMCR9BN0TRE10006",
       "stock": "0S6090",
@@ -1523,19 +1768,6 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-sport-big-bend-id15017549.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T17:52:39",
       "price": 38370.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4",
-      "vin": "3FMCR9BN5TRE37489",
-      "stock": "R9B3748",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/134b96a720ab.html",
-      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-sport-big-bend-id15066050.htm",
-      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-sport-big-bend-id15066050.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:52:49",
-      "price": 40640.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -1627,6 +1859,19 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-sport-big-bend-id15206044.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T17:53:53",
       "price": 41365.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDBRONCO SPORTBIG BEND 4DR 4X4",
+      "vin": "3FMCR9BN0TRE86423",
+      "stock": "26BS642",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/05138db436c7.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-sport-big-bend-id15271157.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-sport-big-bend-id15271157.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:15:31",
+      "price": 39490.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -1774,6 +2019,19 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDBRONCO SPORTOUTER BANKS 4DR 4X4",
+      "vin": "3FMCR9CN0TRE19769",
+      "stock": "26BS976",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/eae38eb5945e.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-sport-outer-banks-id14987335.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-sport-outer-banks-id14987335.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:15:40",
+      "price": 38616.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDBRONCO SPORTOUTER BANKS 4DR 4X4 (300A)",
       "vin": "3FMCR9CN3TRE40115",
       "stock": "CT372",
@@ -1880,6 +2138,32 @@
     },
     {
       "name": "2026FORDBRONCO SPORTOUTER BANKS 4DR 4X4",
+      "vin": "3FMCR9CN3TRE86897",
+      "stock": "26BS689",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/7137806dd4bd.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-sport-outer-banks-id15394911.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-sport-outer-banks-id15394911.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:15:50",
+      "price": 41601.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDBRONCO SPORTOUTER BANKS 4DR 4X4",
+      "vin": "3FMCR9CN7TRE70119",
+      "stock": "26BS011",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/96e393a1fc14.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-sport-outer-banks-id15394920.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-sport-outer-banks-id15394920.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:16:00",
+      "price": 41305.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDBRONCO SPORTOUTER BANKS 4DR 4X4",
       "vin": "3FMCR9CN1TRF12025",
       "stock": "R9C1202",
       "color": "White",
@@ -1901,6 +2185,19 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-bronco-sport-outer-banks-id15405928.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T17:58:02",
       "price": 47980.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDEXPEDITIONTREMOR 4DR 4X4",
+      "vin": "1FMJU1RG4TEA12346",
+      "stock": "26EP234",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/5aaf304c3ab6.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-expedition-tremor-id14930042.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-expedition-tremor-id14930042.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:16:09",
+      "price": 106415.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -1944,6 +2241,19 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDEXPLORERACTIVE 4DR 4X4",
+      "vin": "1FMUK8DH7TGC34024",
+      "stock": "26EX402",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/3e22cb2691e1.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-active-id15301539.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-active-id15301539.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:16:18",
+      "price": 52664.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDEXPLORERACTIVE 4DR 4X4 (200A)",
       "vin": "1FMUK8DHXTGC51044",
       "stock": "K8D5104",
@@ -1980,6 +2290,17 @@
       "last_verified": "2026-09-24T17:59:16",
       "price": 58895.0,
       "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDEXPLORERACTIVE 4DR 4X4",
+      "vin": "1FMUK8DH2TGB84763",
+      "stock": "26EX476",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/4e58ae2f836a.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-active-id15406812.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-active-id15406812.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:16:28",
       "condition": "new"
     },
     {
@@ -2022,6 +2343,17 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDEXPLORERST 4DR 4X4",
+      "vin": "1FMWK8GC0TGA83892",
+      "stock": "26EX389",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/8c301a8ec51a.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-st-id14891391.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-st-id14891391.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:16:37",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDEXPLORERST 4DR 4X4 (400A)",
       "vin": "1FMWK8GC6TGB01893",
       "stock": "K8G0189",
@@ -2048,16 +2380,14 @@
       "condition": "new"
     },
     {
-      "name": "2026FORDEXPLORERST 4DR 4X4 (400A)",
-      "vin": "1FMWK8GC1TGB03132",
-      "stock": "K8G0313",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/38b4c682a014.html",
-      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-st-id14988087.htm",
-      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-st-id14988087.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:00:29",
-      "price": 72095.0,
-      "price_currency": "CAD",
+      "name": "2026FORDEXPLORERST 4DR 4X4",
+      "vin": "1FMWK8GC7TGB24468",
+      "stock": "K8G2446",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/cfab3d65127a.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-st-id14991226.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-st-id14991226.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:16:45",
       "condition": "new"
     },
     {
@@ -2126,6 +2456,45 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDEXPLORERST-LINE 4DR 4X4",
+      "vin": "1FMUK8KH8TGB32430",
+      "stock": "26EX243",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/86a9080202b8.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-st-line-id15130329.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-st-line-id15130329.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:16:53",
+      "price": 58651.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDEXPLORERST-LINE 4DR 4X4",
+      "vin": "1FMUK8KH7TGB86124",
+      "stock": "26EX612",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/b3e9b0d52722.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-st-line-id15163899.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-st-line-id15163899.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:17:03",
+      "price": 59954.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDEXPLORERST-LINE 4DR 4X4",
+      "vin": "1FMUK8KH7TGC08011",
+      "stock": "26EX801",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/1b6ecb24e8e5.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-st-line-id15369854.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-explorer-st-line-id15369854.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:17:11",
+      "price": 58916.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDEXPLORERTREMOR 4DR 4X4 (800A)",
       "vin": "1FMWK8JC9TGB38476",
       "stock": "NT438",
@@ -2150,6 +2519,28 @@
       "last_verified": "2026-09-24T18:02:23",
       "price": 95632.0,
       "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150KING RANCH 4X4 SUPERCREW CAB 6.5 FT. BOX (601A)",
+      "vin": "1FTFW6LD5TFB84752",
+      "stock": "W6L8475",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/482f6e2639b6.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-king-ranch-id15398563.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-king-ranch-id15398563.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:17:20",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150KING RANCH 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW6L89TFC56362",
+      "stock": "W6L5636",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/3356cfb0b7af.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-king-ranch-id15410550.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-king-ranch-id15410550.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:17:28",
       "condition": "new"
     },
     {
@@ -2273,6 +2664,19 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW5L8XTFA61168",
+      "stock": "26F1168",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/faed668f2267.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15073616.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15073616.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:17:37",
+      "price": 81930.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 6.5 FT. BOX (501A)",
       "vin": "1FTFW5L81TFB72501",
       "stock": "0T6795",
@@ -2321,6 +2725,30 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15158061.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:05:11",
       "price": 85945.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW5LD7TFA12040",
+      "stock": "26F2040",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/ab8f3819b9c7.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15186165.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15186165.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:17:45",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW5LD4TFB38582",
+      "stock": "26F8582",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/33f9e5154dd7.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15234343.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15234343.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:17:55",
+      "price": 76124.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -2559,6 +2987,32 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX (502A)",
+      "vin": "1FTFW5LDXTFC09459",
+      "stock": "W5L0945",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/9c346b1eb2dd.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15377780.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15377780.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:18:02",
+      "price": 97370.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX (501A)",
+      "vin": "1FTFW5LDXTFC07291",
+      "stock": "W5L0729",
+      "color": "Dark Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/23eddaa317fd.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15381689.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15381689.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:18:12",
+      "price": 91790.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 6.5 FT. BOX (502A)",
       "vin": "1FTFW5L89TFB96884",
       "stock": "TT698",
@@ -2568,6 +3022,19 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15393852.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:09:27",
       "price": 85886.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX (501A)",
+      "vin": "1FTFW5LD1TFC09933",
+      "stock": "W5L0993",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/abaa2a555daa.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15395733.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15395733.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:18:21",
+      "price": 91065.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -2598,6 +3065,19 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX (502A)",
+      "vin": "1FTFW5LD5TFB94174",
+      "stock": "W5L9417",
+      "color": "Dark Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/a447b7740dfa.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15398561.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15398561.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:18:28",
+      "price": 97819.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 6.5 FT. BOX (502A)",
       "vin": "1FTFW5L87TFC29090",
       "stock": "TT701",
@@ -2620,6 +3100,71 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15402239.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:10:23",
       "price": 83833.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX (502A)",
+      "vin": "1FTFW5LD3TFC07245",
+      "stock": "W5L0724",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/6a1e2aafb3ab.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15403220.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15403220.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:18:36",
+      "price": 98520.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 5.5 FT. BOX (502A)",
+      "vin": "1FTFW5LD5TFB48327",
+      "stock": "W5L4832",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/ba5dd6070991.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15405072.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15405072.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:18:43",
+      "price": 99545.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150LARIAT 4X4 SUPERCREW CAB 6.5 FT. BOX (502A)",
+      "vin": "1FTFW5L87TFB42600",
+      "stock": "0T6871",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/d90cb7f14d9a.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15413880.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-lariat-id15413880.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:18:54",
+      "price": 93545.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW7L88TFA85836",
+      "stock": "26F5836",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/26e3b42cd340.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-platinum-id15120056.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-platinum-id15120056.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:19:03",
+      "price": 93020.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW7L80TFA87841",
+      "stock": "26F7841",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/47426b245e93.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-platinum-id15120060.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-platinum-id15120060.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:19:11",
+      "price": 95040.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -2650,6 +3195,45 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX (703A)",
+      "vin": "1FTFW7LD2TFB78168",
+      "stock": "W7L7816",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/5afe83a2f22a.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-platinum-id15376986.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-platinum-id15376986.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:19:20",
+      "price": 120960.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX (703A)",
+      "vin": "1FTFW7LD6TFC06635",
+      "stock": "W7L0663",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/a76ab98fdc74.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-platinum-id15391380.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-platinum-id15391380.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:19:30",
+      "price": 121835.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150PLATINUM 4X4 SUPERCREW CAB 5.5 FT. BOX (702A)",
+      "vin": "1FTFW7L83TFC56332",
+      "stock": "W7L5633",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/05ccbacd1042.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-platinum-id15412901.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-platinum-id15412901.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:19:39",
+      "price": 113165.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (801A)",
       "vin": "1FTFW1RG0TFB83643",
       "stock": "TT637",
@@ -2658,6 +3242,241 @@
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15310759.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15310759.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:11:56",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (801A)",
+      "vin": "1FTFW1RG7TFB50543",
+      "stock": "W1R5054",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/8ae874224bb5.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15316987.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15316987.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:19:48",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (801A)",
+      "vin": "1FTFW1RG4TFB50550",
+      "stock": "W1R5055",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/126980049fa2.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15316988.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15316988.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:19:57",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RG1TFB89774",
+      "stock": "W1R8977",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/423e0855a452.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15323316.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15323316.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:20:06",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RG4TFB89784",
+      "stock": "W1R8978",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/7c57cde9f716.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15347151.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15347151.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:20:14",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RG5TFB89941",
+      "stock": "W1R8994",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/03220e38e693.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15347152.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15347152.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:20:23",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RG3TFB89775",
+      "stock": "W1R8977",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/190df6e3c8b3.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15364273.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15364273.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:20:31",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RG7TFB89780",
+      "stock": "W1R8978",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/55f72acc4d96.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15364274.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15364274.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:20:40",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RG9TFB89778",
+      "stock": "W1R8977",
+      "color": "Dark Blue",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/b2bc4567ab0c.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15368819.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15368819.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:20:50",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RG8TFB89772",
+      "stock": "W1R8977",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/e9ba936d9031.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15373863.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15373863.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:20:59",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RG5TFB89776",
+      "stock": "W1R8977",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/e05147ef02b0.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15381686.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15381686.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:21:07",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RG6TFB89771",
+      "stock": "W1R8977",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/fa621cbff480.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15389076.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15389076.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:21:17",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RGXTFB89773",
+      "stock": "W1R8977",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/338df73669e6.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15389077.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15389077.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:21:28",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RG4TFB89770",
+      "stock": "W1R8977",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/ef7ff4853c37.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15391379.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15391379.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:21:38",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RG9TFB89781",
+      "stock": "W1R8978",
+      "color": "Dark Blue",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/40d5ec0f828d.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15395731.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15395731.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:21:47",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RG2TFB89783",
+      "stock": "W1R8978",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/aaa367be4486.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15398553.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15398553.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:21:56",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RG8TFB89769",
+      "stock": "W1R8976",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/aeca11ac82f1.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15410547.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15410547.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:22:05",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RG6TFB89785",
+      "stock": "W1R8978",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/7ac830cefce9.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15410548.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15410548.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:22:15",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (802A)",
+      "vin": "1FTFW1RG9TFB89943",
+      "stock": "W1R8994",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/e02e4dfbb71a.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15410549.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15410549.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:22:23",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150RAPTOR 4X4 SUPERCREW CAB 5.5 FT. BOX (801A)",
+      "vin": "1FTFW1RG4TFB50547",
+      "stock": "W1R5054",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/f855ecf19559.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15412895.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-raptor-id15412895.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:22:32",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTEW2L5XTFA87012",
+      "stock": "26F7012",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/d2759ac68f40.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15130330.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15130330.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:22:42",
+      "price": 67063.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTEW2L50TFA87181",
+      "stock": "26F7181",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/2623b1a8dee0.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15130334.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15130334.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:22:51",
+      "price": 67736.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -2670,6 +3489,45 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15147739.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:15:23",
       "price": 71045.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTEW2LP9TKE09695",
+      "stock": "26F9695",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/777c112401c7.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15163900.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15163900.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:23:01",
+      "price": 59166.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTEW2LP2TKE08680",
+      "stock": "26F8680",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/9d14c8cfd577.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15170713.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15170713.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:23:10",
+      "price": 59166.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTEW2LP6TKE08813",
+      "stock": "26F8813",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/cfd268ab3bc5.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15170718.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15170718.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:23:18",
+      "price": 59166.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -2687,6 +3545,45 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTEW2LP3TKE09174",
+      "stock": "26F9174",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/6e7c9f62ee8e.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15179426.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15179426.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:23:26",
+      "price": 59166.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTEW2LPXTKE09124",
+      "stock": "26F9124",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/a2d91de11797.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15183058.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15183058.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:23:36",
+      "price": 59166.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTEW2LP9TKE09454",
+      "stock": "26F9454",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/5906c01e88a3.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15183081.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15183081.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:23:45",
+      "price": 59166.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX (201A)",
       "vin": "1FTEW2LP4TKD68909",
       "stock": "0T6516",
@@ -2696,6 +3593,19 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15193397.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:16:38",
       "price": 59305.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150STX 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTEW2LP2TKE09196",
+      "stock": "26F9196",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/5ecfef015868.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15230310.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-stx-id15230310.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:23:54",
+      "price": 59166.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -2760,19 +3670,6 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id14786334.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:17:37",
       "price": 81542.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "2026FORDF-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (402B)",
-      "vin": "1FTFW4L83TFB55838",
-      "stock": "0T6769",
-      "color": "Grey",
-      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/f859e33db4b8.html",
-      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15090036.htm",
-      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15090036.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:17:47",
-      "price": 83372.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -2890,6 +3787,50 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (402A)",
+      "vin": "1FTFW4L82TFB47469",
+      "stock": "W4L4746",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/945a351e38e7.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15311880.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15311880.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:24:04",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (402A)",
+      "vin": "1FTFW4L87TFB67734",
+      "stock": "W4L6773",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/8b8647f7b1fc.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15317330.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15317330.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:24:14",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (401A)",
+      "vin": "1FTFW4L80TFB67865",
+      "stock": "W4L6786",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/76ad6dc68144.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15317331.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15317331.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:24:23",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (402A)",
+      "vin": "1FTFW4L8XTFB67324",
+      "stock": "W4L6732",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/77bc1b7a5f94.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15318334.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15318334.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:24:31",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (401A)",
       "vin": "1FTFW4L51TFB75544",
       "stock": "TT649",
@@ -2903,16 +3844,25 @@
       "condition": "new"
     },
     {
-      "name": "2026FORDF-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (402A)",
-      "vin": "1FTFW4L86TFB70429",
-      "stock": "0T6837",
-      "color": "Grey",
-      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/d66f93609926.html",
-      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15332921.htm",
-      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15332921.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:20:15",
-      "price": 85964.0,
-      "price_currency": "CAD",
+      "name": "2026FORDF-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (402B)",
+      "vin": "1FTFW4L86TFC00268",
+      "stock": "W4L0026",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/ea589240b6c8.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15347153.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15347153.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:24:40",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150TREMOR 4X4 SUPERCREW CAB 5.5 FT. BOX (402B)",
+      "vin": "1FTFW4L83TFB96891",
+      "stock": "W4L9689",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/221e9ab5a3aa.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15347154.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-tremor-id15347154.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:24:48",
       "condition": "new"
     },
     {
@@ -3209,6 +4159,19 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3L8XTFA47694",
+      "stock": "26F7694",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/8cd0cab1188f.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id14961698.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id14961698.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:24:57",
+      "price": 62914.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
       "vin": "1FTFW3LD0TFA34580",
       "stock": "W3L3458",
@@ -3301,6 +4264,71 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3LD0TFA32960",
+      "stock": "26F2960",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/83abab800037.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id14974446.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id14974446.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:25:07",
+      "price": 65296.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3LD0TFA33977",
+      "stock": "26F3977",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/ebaaa5c3997e.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id14981332.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id14981332.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:25:16",
+      "price": 65296.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3L5XTFA68728",
+      "stock": "26F8728",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/6907935e4be9.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id14981334.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id14981334.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:25:26",
+      "price": 63618.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3L5XTFA60743",
+      "stock": "26F0743",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/badff9f0573c.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15014988.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15014988.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:25:35",
+      "price": 63618.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3L51TFA60310",
+      "stock": "26F0310",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/bd2509d12710.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15023577.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15023577.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:25:45",
+      "price": 63618.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
       "vin": "1FTFW3LD4TFA46022",
       "stock": "W3L4602",
@@ -3340,6 +4368,58 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3L59TFA74665",
+      "stock": "26F4665",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/960c837ae45d.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15040371.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15040371.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:25:53",
+      "price": 67010.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3L57TFA67598",
+      "stock": "26F7598",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/dddf9409154a.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15045125.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15045125.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:26:03",
+      "price": 63618.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW3L82TKD62562",
+      "stock": "26F2562",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/16aec48cb87e.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15055350.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15055350.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:26:11",
+      "price": 71689.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3L52TFA75107",
+      "stock": "26F7510",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/eb0465c5e560.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15055353.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15055353.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:26:21",
+      "price": 63618.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
       "vin": "1FTFW3L83TKD81329",
       "stock": "W3L8132",
@@ -3375,6 +4455,19 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15072600.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:27:51",
       "price": 84275.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3L52TKD62597",
+      "stock": "26F2597",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/0e0a31fbfe9b.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15120059.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15120059.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:26:29",
+      "price": 64536.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -3522,6 +4615,43 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW3L84TKD54589",
+      "stock": "26F4589",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/6fdc44aec54c.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15146650.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15146650.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:26:39",
+      "price": 69317.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW3L8XTKE29618",
+      "stock": "26F9618",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/66e6cf10fab6.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15146651.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15146651.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:26:48",
+      "price": 67200.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3L80TKE26257",
+      "stock": "26F6257",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/191e8a377670.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15149732.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15149732.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:26:59",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (302A)",
       "vin": "1FTFW3L81TKE02615",
       "stock": "W3L0261",
@@ -3531,6 +4661,93 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15153364.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:30:21",
       "price": 82060.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3L50TKD83271",
+      "stock": "26F3271",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/3208c57adce6.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15158966.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15158966.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:27:08",
+      "price": 62491.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3L56TKD63591",
+      "stock": "26F3591",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/6d325d4e68bd.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15173751.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15173751.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:27:17",
+      "price": 63107.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3L50TKE29049",
+      "stock": "26F9049",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/bb149f71a293.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15173754.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15173754.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:27:27",
+      "price": 65989.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3L87TKE25106",
+      "stock": "26F5106",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/8cf16fd1b550.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15179420.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15179420.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:27:34",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW3L8XTKE26993",
+      "stock": "26F6993",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/284aade3541b.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15183070.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15183070.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:27:42",
+      "price": 75160.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW3L82TKE24395",
+      "stock": "26F4395",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/67f4662db32a.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15186168.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15186168.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:27:50",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX",
+      "vin": "1FTFW3L85TKE29705",
+      "stock": "26F9705",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/0dd7822be1dc.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15188593.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15188593.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:27:59",
+      "price": 73598.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -3561,6 +4778,19 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX",
+      "vin": "1FTFW3L54TKE08950",
+      "stock": "26F8950",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/6beb18b312ad.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15191607.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15191607.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:28:08",
+      "price": 63107.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (301A)",
       "vin": "1FTFW3LD3TFB99538",
       "stock": "W3L554M",
@@ -3570,19 +4800,6 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15193399.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:32:01",
       "price": 71070.0,
-      "price_currency": "CAD",
-      "condition": "new"
-    },
-    {
-      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (300A)",
-      "vin": "1FTFW3L81TKE27899",
-      "stock": "W3L2789",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/abe23c3f459f.html",
-      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15200273.htm",
-      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15200273.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T18:32:12",
-      "price": 73520.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -3873,6 +5090,84 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (301A)",
+      "vin": "1FTFW3L8XTKE48332",
+      "stock": "W3L4833",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/c09a91281392.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15289723.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15289723.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:28:16",
+      "price": 75845.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
+      "vin": "1FTFW3L58TKE53695",
+      "stock": "W3L5369",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/85b51adf830d.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15290920.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15290920.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:28:26",
+      "price": 83610.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (301A)",
+      "vin": "1FTFW3L88TKE46594",
+      "stock": "W3L4659",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/a1e19d9c3835.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15293812.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15293812.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:28:35",
+      "price": 75845.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (303A)",
+      "vin": "1FTFW3LD5TFA95097",
+      "stock": "W3L9509",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/72133d010b8e.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15311879.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15311879.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:28:43",
+      "price": 89330.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
+      "vin": "1FTFW3LD6TFB75282",
+      "stock": "W3L7528",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/cf2e96784750.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15321148.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15321148.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:28:52",
+      "price": 85150.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
+      "vin": "1FTFW3LD8TFB79396",
+      "stock": "W3L7939",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/04fa4862d584.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15321151.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15321151.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:29:01",
+      "price": 84000.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
       "vin": "1FTFW3LD5TFB80327",
       "stock": "TT652",
@@ -3895,6 +5190,32 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15323313.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:37:12",
       "price": 69059.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
+      "vin": "1FTFW3LD9TFB75521",
+      "stock": "W3L7552",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/f6536cd7f03d.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15326154.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15326154.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:29:11",
+      "price": 83375.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
+      "vin": "1FTFW3LD4TFB77127",
+      "stock": "W3L7712",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/38742451b66f.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15364275.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15364275.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:29:20",
+      "price": 85150.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -3977,6 +5298,32 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
+      "vin": "1FTFW3LD1TFC11010",
+      "stock": "W3L1101",
+      "color": "Dark Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/7a94d9b0907f.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15379133.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15379133.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:29:28",
+      "price": 83250.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
+      "vin": "1FTFW3LD9TFB73445",
+      "stock": "W3L7344",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/76f061f90587.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15381688.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15381688.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:29:38",
+      "price": 83375.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (300A)",
       "vin": "1FTFW3L87TKE96502",
       "stock": "TT692",
@@ -4030,6 +5377,19 @@
     },
     {
       "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
+      "vin": "1FTEW3LP6TKE64773",
+      "stock": "W3L6477",
+      "color": "Silver",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/91756957f6bc.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15396754.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15396754.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:29:46",
+      "price": 77185.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
       "vin": "1FTFW3L81TKE96902",
       "stock": "TT721",
       "color": "White",
@@ -4075,6 +5435,32 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (303A)",
+      "vin": "1FTFW3LD9TFC04998",
+      "stock": "W3L0499",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/16236e503940.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15407607.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15407607.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:29:54",
+      "price": 88180.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (301A)",
+      "vin": "1FTFW3L80TKE67066",
+      "stock": "W3L6706",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/b69726f3c3eb.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15408510.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15408510.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:30:03",
+      "price": 76000.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (302A)",
       "vin": "1FTFW3L83TKF09844",
       "stock": "0T6868",
@@ -4088,6 +5474,43 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 5.5 FT. BOX (301A)",
+      "vin": "1FTFW3L83TKF27552",
+      "stock": "W3L2755",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/c61411160b46.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15412899.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15412899.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:30:12",
+      "price": 74144.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-150XLT 4X4 SUPERCREW CAB 6.5 FT. BOX (302A)",
+      "vin": "1FTFW3L89TKE48645",
+      "stock": "TT735",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/dd10bfa2a3a1.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15413817.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-150-xlt-id15413817.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:30:22",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-250XL 4X4 SD CREW CAB 6.75 FT. BOX (600A)",
+      "vin": "1FT8W2BA4TEE79730",
+      "stock": "W2B7973",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/a59277d31dd1.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-250-xl-id15196538.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-250-xl-id15196538.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:30:31",
+      "price": 70496.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-250XLT 4X4 SD CREW CAB 8 FT. BOX",
       "vin": "1FT7W2BT9TEF26294",
       "stock": "0T6746",
@@ -4097,6 +5520,19 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-250-xlt-id15122203.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:40:53",
       "price": 82369.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-350",
+      "vin": "1FT8W3BM2TED65337",
+      "stock": "W3B6533",
+      "color": "Sport Red",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/5e17c967a243.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-350-id14947272.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-350-id14947272.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:30:42",
+      "price": 119285.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -4189,6 +5625,17 @@
       "last_verified": "2026-09-24T18:42:10",
       "price": 111338.0,
       "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDF-350LARIAT 4X4 SD CREW CAB 6.75 FT. BOX SRW (618A)",
+      "vin": "1FT8W3BM2TEE46290",
+      "stock": "MT385",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/946d02953ebe.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-350-lariat-id15413815.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-350-lariat-id15413815.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:30:51",
       "condition": "new"
     },
     {
@@ -4553,6 +6000,17 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDF-550 CHASSISXL 4X2 SD REGULAR CAB DRW",
+      "vin": "1FDUF5GTXTDA03963",
+      "stock": "F5G0396",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/7a1e1231f89b.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-550-chassis-xl-id14688112.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-f-550-chassis-xl-id14688112.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:30:59",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDF-550 CHASSISXLT 4X4 SD SUPER CAB DRW (663A)",
       "vin": "1FD0X5HT4TEE82515",
       "stock": "0T6542",
@@ -4612,6 +6070,30 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDMAVERICKLARIAT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (502A)",
+      "vin": "3FTTW8SA6TRB42597",
+      "stock": "QT697",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/a2f37523f3df.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-lariat-id15415326.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-lariat-id15415326.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:31:08",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMAVERICKLOBO HIGH ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (702A)",
+      "vin": "3FTCW8PA2TRA70595",
+      "stock": "W8P7059",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/714128c87816.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-lobo-high-id15057742.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-lobo-high-id15057742.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:31:17",
+      "price": 49895.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDMAVERICKXL ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (101A)",
       "vin": "3FTTW8B33TRB42249",
       "stock": "0P6481",
@@ -4634,6 +6116,32 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xl-id15402236.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:48:01",
       "price": 40114.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (302A)",
+      "vin": "3FTTW8JA8TRA21264",
+      "stock": "W8J2126",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/a4d363c65dc4.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xlt-id14825030.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xlt-id14825030.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:31:25",
+      "price": 46745.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (302A)",
+      "vin": "3FTTW8JA5TRA47739",
+      "stock": "W8J4773",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/1793324dac75.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xlt-id15027920.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xlt-id15027920.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:31:34",
+      "price": 44095.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -4690,6 +6198,19 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (302A)",
+      "vin": "3FTTW8JA6TRA95833",
+      "stock": "W8J9583",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/8170274d54f9.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xlt-id15250648.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xlt-id15250648.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:31:43",
+      "price": 42995.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX",
       "vin": "3FTTW8JA9TRB15282",
       "stock": "0P6396",
@@ -4717,6 +6238,19 @@
     },
     {
       "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (301A)",
+      "vin": "3FTTW8J38TRB27571",
+      "stock": "W8J2757",
+      "color": "Dark Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/3a7422432d17.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xlt-id15331756.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xlt-id15331756.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:31:52",
+      "price": 46445.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (301A)",
       "vin": "3FTTW8J33TRB20530",
       "stock": "QT676",
       "color": "Black",
@@ -4725,6 +6259,43 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xlt-id15350190.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:49:55",
       "price": 43038.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (301A)",
+      "vin": "3FTTW8J33TRB25808",
+      "stock": "W8J2580",
+      "color": "Orange",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/a8262083b6ab.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xlt-id15351305.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xlt-id15351305.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:32:00",
+      "price": 51295.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (301A)",
+      "vin": "3FTTW8J39TRB42709",
+      "stock": "QT689",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/739317d04225.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xlt-id15358610.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xlt-id15358610.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:32:10",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMAVERICKXLT ALL-WHEEL DRIVE SUPERCREW 4.5 FT. BOX (301A)",
+      "vin": "3FTTW8J3XTRB42718",
+      "stock": "W8J4271",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/7baf416de60f.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xlt-id15410551.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-maverick-xlt-id15410551.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:32:20",
+      "price": 46895.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -4755,6 +6326,28 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDMUSTANGDARK HORSE 2DR FASTBACK (700A)",
+      "vin": "1FA6P8R00T5502933",
+      "stock": "8R50293",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/48b85814fba2.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-dark-horse-id15168750.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-dark-horse-id15168750.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:32:29",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG DARK HORSE SC2DR COUPE (950A)",
+      "vin": "1FA6P8GJ1T5551926",
+      "stock": "8G55192",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/dd8eb3d094d3.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-dark-horse-sc-base-id15398551.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-dark-horse-sc-base-id15398551.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:32:37",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDMUSTANGECOBOOST 2DR FASTBACK (101A)",
       "vin": "1FA6P8TH5T5119715",
       "stock": "GT208",
@@ -4768,6 +6361,61 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDMUSTANGECOBOOST PREMIUM 2DR FASTBACK (201A)",
+      "vin": "1FA6P8TH7T5115178",
+      "stock": "8T11517",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/1412f2e6e10b.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-ecoboost-premium-id14930917.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-ecoboost-premium-id14930917.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:32:47",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANGECOBOOST PREMIUM 2DR FASTBACK (201A)",
+      "vin": "1FA6P8THXT5119760",
+      "stock": "8T11976",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/d90994bd098c.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-ecoboost-premium-id15088582.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-ecoboost-premium-id15088582.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:32:55",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANGECOBOOST PREMIUM 2DR FASTBACK (201A)",
+      "vin": "1FA6P8TH2T5132535",
+      "stock": "8T13253",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/08a4da1f201e.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-ecoboost-premium-id15296654.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-ecoboost-premium-id15296654.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:33:05",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANGECOBOOST PREMIUM 2DR FASTBACK (200A)",
+      "vin": "1FA6P8TH3T5115128",
+      "stock": "8T11512",
+      "color": "Dark Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/0398193252ff.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-ecoboost-premium-id15340500.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-ecoboost-premium-id15340500.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:33:12",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANGGT PREMIUM 2DR CONVERTIBLE (401A)",
+      "vin": "1FAGP8FF9T5110658",
+      "stock": "8F11065",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/d37327c6e8c8.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-gt-premium-id14923236.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-gt-premium-id14923236.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:33:20",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDMUSTANG",
       "vin": "1FA6P8CFXT5404540",
       "stock": "GT736",
@@ -4776,6 +6424,85 @@
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-id15407585.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-id15407585.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:51:58",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-EGT 4DR ALL-WHEEL DRIVE (400A)",
+      "vin": "3FMTK4SX6TMA09355",
+      "stock": "K4S0935",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/73835ac861e8.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-gt-id15122236.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-gt-id15122236.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:33:29",
+      "price": 68927.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE",
+      "vin": "3FMTK3SU4TMA04378",
+      "stock": "K3S0437",
+      "color": "Green",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/b39eafad3f77.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15025857.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15025857.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:33:39",
+      "price": 61642.0,
+      "price_currency": "CAD",
+      "odometer_km": 7827,
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE (300A)",
+      "vin": "3FMTK3SUXTMA09312",
+      "stock": "K3S0931",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/8c7a9cebccb5.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15132556.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15132556.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:33:48",
+      "price": 58127.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE",
+      "vin": "3FMTK3SU0TMA15409",
+      "stock": "K3S1540",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/f76efb170c07.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15203143.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15203143.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:33:59",
+      "price": 59292.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE",
+      "vin": "3FMTK3SU4TMA15008",
+      "stock": "K3S1500",
+      "color": "Tan",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/97ff9052ef86.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15206040.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15206040.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:34:08",
+      "price": 56002.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE (300A)",
+      "vin": "3FMTK3SU6TMA18329",
+      "stock": "K3S1832",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/f669c49c8773.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15260236.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15260236.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:34:17",
+      "price": 59292.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -4792,6 +6519,19 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDMUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE (300A)",
+      "vin": "3FMTK3SU3TMA09295",
+      "stock": "K3S0929",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/fbaf9877f6d8.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15281633.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15281633.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:34:27",
+      "price": 57327.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDMUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE",
       "vin": "3FMTK3SU2TMA17453",
       "stock": "0E6397",
@@ -4801,6 +6541,32 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15364262.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:53:32",
       "price": 56776.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE (300A)",
+      "vin": "3FMTK3S59TMA23694",
+      "stock": "K3S2369",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/b9a8d129e723.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15389074.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15389074.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:34:36",
+      "price": 50367.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE (300A)",
+      "vin": "3FMTK3S53TMA23691",
+      "stock": "K3S2369",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/9c944eb39331.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15398552.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15398552.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:34:46",
+      "price": 54167.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -4827,6 +6593,45 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDMUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE (300A)",
+      "vin": "3FMTK3SU2TMA24080",
+      "stock": "K3S2408",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/39a781ca2498.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15405922.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15405922.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:34:56",
+      "price": 58992.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE (300A)",
+      "vin": "3FMTK3SU0TMA24305",
+      "stock": "K3S2430",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/debc0a90ee34.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15405923.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15405923.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:35:04",
+      "price": 55367.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-EPREMIUM 4DR ALL-WHEEL DRIVE (300A)",
+      "vin": "3FMTK3SU3TMA24816",
+      "stock": "K3S2481",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/23b7111d8eba.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15405924.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-premium-id15405924.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:35:13",
+      "price": 57367.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDMUSTANG MACH-ESELECT 4DR ALL-WHEEL DRIVE (100A)",
       "vin": "3FMTK1S56TMA12589",
       "stock": "0E6218",
@@ -4840,6 +6645,97 @@
       "condition": "new"
     },
     {
+      "name": "2026FORDMUSTANG MACH-ESELECT 4DR 4X2 (100A)",
+      "vin": "3FMTK1R45TMA09101",
+      "stock": "K1R0910",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/4aa98e2247c4.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-select-id15122230.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-select-id15122230.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:35:21",
+      "price": 47197.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-ESELECT 4DR 4X2 (100A)",
+      "vin": "3FMTK1R40TMA11046",
+      "stock": "K1R1104",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/d13f9f42f126.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-select-id15196532.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-select-id15196532.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:35:30",
+      "price": 48602.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-ESELECT 4DR 4X2 (100A)",
+      "vin": "3FMTK1R42TMA11100",
+      "stock": "K1R1110",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/0b0a57a380a6.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-select-id15196533.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-select-id15196533.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:35:39",
+      "price": 48842.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-ESELECT 4DR ALL-WHEEL DRIVE (100A)",
+      "vin": "3FMTK1S59TMA11856",
+      "stock": "K1S1185",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/5311d7a5726e.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-select-id15196535.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-select-id15196535.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:35:49",
+      "price": 50842.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-ESELECT 4DR ALL-WHEEL DRIVE (100A)",
+      "vin": "3FMTK1S56TMA15511",
+      "stock": "K1S1551",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/01002345c733.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-select-id15216002.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-select-id15216002.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:35:58",
+      "price": 50842.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDMUSTANG MACH-ESELECT 4DR ALL-WHEEL DRIVE (100A)",
+      "vin": "3FMTK1S52TMA24688",
+      "stock": "K1S2468",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/bbbcd21cbd6a.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-select-id15405920.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-mustang-mach-e-select-id15405920.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:36:08",
+      "price": 51342.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERLARIAT 4X4 SUPERCREW 5 FT. BOX (500A)",
+      "vin": "1FTER4KH2TLE03101",
+      "stock": "R4K0310",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/7e33919cb65b.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id14923240.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id14923240.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:36:17",
+      "price": 59875.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
       "name": "2026FORDRANGERLARIAT 4X4 SUPERCREW 5 FT. BOX (500A)",
       "vin": "1FTER4KP9TLE08996",
       "stock": "RT240",
@@ -4849,6 +6745,32 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15021628.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:55:56",
       "price": 57742.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERLARIAT 4X4 SUPERCREW 5 FT. BOX (500A)",
+      "vin": "1FTER4KP6TLE16876",
+      "stock": "R4K1687",
+      "color": "Sand",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/b8f17b3e846b.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15119201.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15119201.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:36:25",
+      "price": 61735.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERLARIAT 4X4 SUPERCREW 5 FT. BOX (500A)",
+      "vin": "1FTER4KP9TLE17049",
+      "stock": "R4K1704",
+      "color": "Sand",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/9a9147cbaba2.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15119202.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15119202.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:36:34",
+      "price": 61735.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -4880,6 +6802,19 @@
     },
     {
       "name": "2026FORDRANGERLARIAT 4X4 SUPERCREW 5 FT. BOX (500A)",
+      "vin": "1FTER4KP0TLE23841",
+      "stock": "R4K2384",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/fd415dfd308b.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15208195.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15208195.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:36:42",
+      "price": 63185.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERLARIAT 4X4 SUPERCREW 5 FT. BOX (500A)",
       "vin": "1FTER4KP5TLE23530",
       "stock": "RT519",
       "color": "White",
@@ -4888,6 +6823,84 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15210583.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:56:52",
       "price": 59033.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERLARIAT 4X4 SUPERCREW 5 FT. BOX (500A)",
+      "vin": "1FTER4KP7TLE22623",
+      "stock": "R4K2262",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/16140a7e8768.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15216006.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15216006.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:36:50",
+      "price": 62685.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERLARIAT 4X4 SUPERCREW 5 FT. BOX (500A)",
+      "vin": "1FTER4KP2TLE22979",
+      "stock": "R4K2297",
+      "color": "Sand",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/5c06ca0f46c4.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15228136.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15228136.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:36:59",
+      "price": 63185.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERLARIAT 4X4 SUPERCREW 5 FT. BOX (500A)",
+      "vin": "1FTER4KP3TLE24028",
+      "stock": "R4K2402",
+      "color": "Tan",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/87186dfb4cee.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15228137.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15228137.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:37:07",
+      "price": 63185.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERLARIAT 4X4 SUPERCREW 5 FT. BOX (500A)",
+      "vin": "1FTER4KP6TLE22502",
+      "stock": "R4K2250",
+      "color": "Sand",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/b76ca36aad41.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15236121.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15236121.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:37:16",
+      "price": 62685.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERLARIAT 4X4 SUPERCREW 5 FT. BOX (500A)",
+      "vin": "1FTER4KP5TLE22815",
+      "stock": "R4K2281",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/eb7781cf957e.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15236122.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15236122.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:37:23",
+      "price": 62435.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERLARIAT 4X4 SUPERCREW 5 FT. BOX (500A)",
+      "vin": "1FTER4KP5TLE23026",
+      "stock": "R4K2302",
+      "color": "Sand",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/022be6374194.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15236123.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-lariat-id15236123.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:37:31",
+      "price": 62685.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -4917,6 +6930,58 @@
     },
     {
       "name": "2026FORDRANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
+      "vin": "1FTER4LR8TLE14188",
+      "stock": "R4L1418",
+      "color": "Sand",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/a7c405080cef.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15085396.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15085396.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:37:39",
+      "price": 79415.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
+      "vin": "1FTER4LR6TLE14416",
+      "stock": "R4L1441",
+      "color": "Green",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/82b2a3e878cb.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15085397.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15085397.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:37:50",
+      "price": 82015.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
+      "vin": "1FTER4LR6TLE17011",
+      "stock": "R4L1701",
+      "color": "Green",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/1a8518112371.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15119203.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15119203.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:37:58",
+      "price": 80515.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
+      "vin": "1FTER4LR0TLE17103",
+      "stock": "R4L1710",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/d1ebde88669b.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15119204.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15119204.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:38:08",
+      "price": 81915.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
       "vin": "1FTER4LR5TLE38870",
       "stock": "R4LE154",
       "color": "White",
@@ -4924,6 +6989,97 @@
       "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15136409.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15136409.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:58:54",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
+      "vin": "1FTER4LRXTLE34331",
+      "stock": "R4L3433",
+      "color": "Sand",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/dd9f3fc1d3a3.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15283201.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15283201.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:38:16",
+      "price": 79915.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
+      "vin": "1FTER4LR8TLE32710",
+      "stock": "R4L3271",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/eca16e52d9df.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15293802.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15293802.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:38:26",
+      "price": 79915.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
+      "vin": "1FTER4LR0TLE32717",
+      "stock": "R4L3271",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/51bc2285dea0.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15293803.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15293803.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:38:36",
+      "price": 81915.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX",
+      "vin": "1FTER4LR5TLE38870",
+      "stock": "R4L3887",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/52280006f2e8.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15318333.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15318333.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:38:45",
+      "price": 78765.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
+      "vin": "1FTER4LR7TLE32603",
+      "stock": "R4L3260",
+      "color": "Green",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/e1a7651ad2c8.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15326150.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15326150.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:38:55",
+      "price": 82515.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
+      "vin": "1FTER4LR9TLE36751",
+      "stock": "R4L3675",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/ef0143c07fee.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15368817.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15368817.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:39:04",
+      "price": 79015.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERRAPTOR 4X4 SUPERCREW 5 FT. BOX (800A)",
+      "vin": "1FTER4LR5TLE36939",
+      "stock": "R4L3693",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/9556503307d9.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15379132.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-raptor-id15379132.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:39:14",
+      "price": 80015.0,
+      "price_currency": "CAD",
       "condition": "new"
     },
     {
@@ -4965,6 +7121,19 @@
     },
     {
       "name": "2026FORDRANGERXLT 4X4 SUPERCREW 5 FT. BOX (301A)",
+      "vin": "1FTER4HP6TLE03035",
+      "stock": "R4H0303",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/5ecb8a6e63af.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-xlt-id15025854.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-xlt-id15025854.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:39:24",
+      "price": 53520.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERXLT 4X4 SUPERCREW 5 FT. BOX (301A)",
       "vin": "1FTER4HH9TLE29444",
       "stock": "0R6341",
       "color": "White",
@@ -4973,6 +7142,19 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-xlt-id15069402.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T19:00:35",
       "price": 52441.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERXLT 4X4 SUPERCREW 5 FT. BOX (300A)",
+      "vin": "1FTER4HH2TLE32198",
+      "stock": "R4H3219",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/7eb15274375c.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-xlt-id15263021.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-xlt-id15263021.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:39:33",
+      "price": 52230.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -4991,6 +7173,19 @@
     },
     {
       "name": "2026FORDRANGERXLT 4X4 SUPERCREW 5 FT. BOX (301A)",
+      "vin": "1FTER4HH9TLE32022",
+      "stock": "R4H3202",
+      "color": "Sand",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/148a3e022d0c.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-xlt-id15309088.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-xlt-id15309088.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:39:41",
+      "price": 55730.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERXLT 4X4 SUPERCREW 5 FT. BOX (301A)",
       "vin": "1FTER4HH2TLE37871",
       "stock": "RT632",
       "color": "Tan",
@@ -4999,6 +7194,19 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-xlt-id15321023.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T19:01:11",
       "price": 49898.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERXLT 4X4 SUPERCREW 5 FT. BOX (301A)",
+      "vin": "1FTER4HH4TLE34051",
+      "stock": "R4H3405",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/a56789aa1bc9.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-xlt-id15321144.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-xlt-id15321144.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:39:51",
+      "price": 55380.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -5023,6 +7231,19 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-xlt-id15382653.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T19:01:38",
       "price": 55038.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDRANGERXLT 4X4 SUPERCREW 5 FT. BOX (301A)",
+      "vin": "1FTER4HP8TLE14506",
+      "stock": "R4H1450",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/bbcb6252e46a.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-xlt-id15390428.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-ranger-xlt-id15390428.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:39:59",
+      "price": 55470.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -5099,6 +7320,32 @@
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-transit-350-cargo-base-id15053726.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:41:27",
       "price": 77865.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDTRANSIT-350 CARGOW/9,900 LB. GVWR ALL-WHEEL DRIVE MEDIUM ROOF VAN",
+      "vin": "1FTBF8C87TKA79943",
+      "stock": "F8C7994",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/6ea1493adeba.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-transit-350-cargo-base-id15119200.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-transit-350-cargo-base-id15119200.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:40:10",
+      "price": 71872.0,
+      "price_currency": "CAD",
+      "condition": "new"
+    },
+    {
+      "name": "2026FORDTRANSIT-350 CARGOREAR-WHEEL DRIVE MEDIUM ROOF VAN",
+      "vin": "1FTBW9CG9TKA76507",
+      "stock": "W9C7650",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/1133d31ac6a0.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2026-ford-transit-350-cargo-base-id15122240.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2026-ford-transit-350-cargo-base-id15122240.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:40:17",
+      "price": 71397.0,
       "price_currency": "CAD",
       "condition": "new"
     },
@@ -5182,6 +7429,17 @@
       "condition": "new"
     },
     {
+      "name": "2027FORDEXPEDITIONACTIVE 4DR 4X4",
+      "vin": "1FMJU1J84VEA15772",
+      "stock": "27EP577",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/f65525e8d733.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2027-ford-expedition-active-id15352088.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2027-ford-expedition-active-id15352088.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:40:27",
+      "condition": "new"
+    },
+    {
       "name": "2027FORDEXPEDITION MAXSSV 4DR 4X4 (102A)",
       "vin": "1FMJK1G82VEA19784",
       "stock": "K1G629A",
@@ -5237,6 +7495,17 @@
       "condition": "new"
     },
     {
+      "name": "2027FORDEXPLORERPLATINUM 4DR 4X4",
+      "vin": "1FMWK8HC2VGA03851",
+      "stock": "K8H0385",
+      "color": "Red",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/c80665461eea.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2027-ford-explorer-platinum-id15381685.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2027-ford-explorer-platinum-id15381685.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:40:37",
+      "condition": "new"
+    },
+    {
       "name": "2027FORDEXPLORERST 4DR 4X4 (400A)",
       "vin": "1FMWK8GC1VGA83192",
       "stock": "K8GI840",
@@ -5278,6 +7547,17 @@
       "source_url": "https://www.dearbornford.com/new/vehicle/2027-ford-explorer-st-line-id15411239.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2027-ford-explorer-st-line-id15411239.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T19:41:53",
+      "condition": "new"
+    },
+    {
+      "name": "2027FORDEXPLORERST-LINE 4DR 4X4 (300A)",
+      "vin": "1FMUK8KH9VGA06600",
+      "stock": "NV006",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/e4e39c29a1ec.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2027-ford-explorer-st-line-id15415325.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2027-ford-explorer-st-line-id15415325.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:40:45",
       "condition": "new"
     },
     {
@@ -5679,6 +7959,28 @@
       "condition": "new"
     },
     {
+      "name": "2027FORDF-350LARIAT 4X4 SD CREW CAB 8 FT. BOX DRW",
+      "vin": "1FT8W3DM3VEC17620",
+      "stock": "27F7620",
+      "color": "Grey",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/d8e297bd24e4.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2027-ford-f-350-lariat-id15403901.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2027-ford-f-350-lariat-id15403901.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:40:55",
+      "condition": "new"
+    },
+    {
+      "name": "2027FORDF-350PLATINUM 4X4 SD CREW CAB 8 FT. BOX SRW",
+      "vin": "1FT8W3BM8VEC18555",
+      "stock": "27F8555",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/37d424c2e06e.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2027-ford-f-350-platinum-id15392190.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2027-ford-f-350-platinum-id15392190.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:41:03",
+      "condition": "new"
+    },
+    {
       "name": "2027FORDF-350PLATINUM 4X4 SD CREW CAB 6.75 FT. BOX SRW",
       "vin": "1FT8W3BM4VEC20304",
       "stock": "W3B2030",
@@ -5890,6 +8192,17 @@
       "condition": "new"
     },
     {
+      "name": "2027FORDF-450KING RANCH 4X4 SD CREW CAB 8 FT. BOX",
+      "vin": "1FT8W4DM1VEC31067",
+      "stock": "27F1067",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/ed47833e3b9b.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2027-ford-f-450-king-ranch-id15414745.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2027-ford-f-450-king-ranch-id15414745.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:41:13",
+      "condition": "new"
+    },
+    {
       "name": "2027FORDF-450PLATINUM 4X4 SD CREW CAB 8 FT. BOX (773A)",
       "vin": "1FT8W4DM0VEC65999",
       "stock": "W4DH470",
@@ -5901,6 +8214,50 @@
       "condition": "new"
     },
     {
+      "name": "2027FORDTRANSIT-150 CARGOALL-WHEEL DRIVE LOW ROOF VAN",
+      "vin": "1FTYE2Y87VKA15343",
+      "stock": "27T5343",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/c8c9f40d7852.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2027-ford-transit-150-cargo-base-id15409382.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2027-ford-transit-150-cargo-base-id15409382.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:41:23",
+      "condition": "new"
+    },
+    {
+      "name": "2027FORDTRANSIT-250 CARGOALL-WHEEL DRIVE LOW ROOF VAN",
+      "vin": "1FTBR2Y87VKA07270",
+      "stock": "27T7270",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/0fe7337a13d7.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2027-ford-transit-250-cargo-base-id15333817.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2027-ford-transit-250-cargo-base-id15333817.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:41:31",
+      "condition": "new"
+    },
+    {
+      "name": "2027FORDTRANSIT-250 CARGOREAR-WHEEL DRIVE MEDIUM ROOF VAN",
+      "vin": "1FTBR1C87VKA07450",
+      "stock": "27T7450",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/71b04e2e9f69.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2027-ford-transit-250-cargo-base-id15376656.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2027-ford-transit-250-cargo-base-id15376656.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:41:41",
+      "condition": "new"
+    },
+    {
+      "name": "2027FORDTRANSIT-250 CARGOALL-WHEEL DRIVE LOW ROOF VAN",
+      "vin": "1FTBR2YG2VKA01951",
+      "stock": "27T1951",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/28ece49931e1.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2027-ford-transit-250-cargo-base-id15383422.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2027-ford-transit-250-cargo-base-id15383422.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:41:50",
+      "condition": "new"
+    },
+    {
       "name": "2027FORDTRANSIT-250 CARGOREAR-WHEEL DRIVE MEDIUM ROOF VAN (101A)",
       "vin": "1FTBR1C88VKA47519",
       "stock": "R1CI814",
@@ -5909,6 +8266,17 @@
       "source_url": "https://www.dearbornford.com/new/vehicle/2027-ford-transit-250-cargo-base-id15396715.htm",
       "dealer_url": "https://www.dearbornford.com/new/vehicle/2027-ford-transit-250-cargo-base-id15396715.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T19:15:06",
+      "condition": "new"
+    },
+    {
+      "name": "2027FORDTRANSIT-250 CARGOREAR-WHEEL DRIVE LOW ROOF VAN",
+      "vin": "1FTBR1Y87VKA09028",
+      "stock": "27T9028",
+      "color": "White",
+      "url": "https://willyml1979-dotcom.github.io/dearborn-motors-ltd-mirror/new/79847f8972e5.html",
+      "source_url": "https://www.dearbornford.com/new/vehicle/2027-ford-transit-250-cargo-base-id15409392.htm",
+      "dealer_url": "https://www.dearbornford.com/new/vehicle/2027-ford-transit-250-cargo-base-id15409392.htm?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T20:41:59",
       "condition": "new"
     },
     {
